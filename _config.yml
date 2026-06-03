@@ -11,7 +11,7 @@ locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "**Xiao Mao Luo**/ **The Three-Tenet System of \*Wú Xiǎn Zé Yǒu\***"
 \# title_separator          : 无显择有论补部：哲学-无显择有经部：物理-无显择有律部：数学
-name                     : &name "Xiao Mao Luo&罗晓矛（别名罗汉）"
+name                     : "Luo Xiaomao 罗晓矛"
 description              : &description "Since the dawn of time, the epistemological anthropocentrism that has plagued metaphysical debates in philosophy has been brought to a close here. In physics, no artificially fitted constants remain; the cosmic generation order 22762276 and the fundamental structure of space-time gravity are hereby established. In mathematics, ontology has been restored, and millennia-old problems—Riemann, Goldbach, Gödel, Church–Turing—are uniformly rewritten. With the **Three-Tenet System of \*Wú Xiǎn Zé Yǒu\***, Luo Xiaomao ushers in a new era of human sub‑god civilization."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://13509354971.github.io# The base hostname & protocol for your site e.g. 13509354971/13509354971.github.io,
 
@@ -24,8 +24,8 @@ repository : 13509354971/13509354971.github.io
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : /images/sanzong.png
-  name             : "Xiao Mao Luo&罗晓矛（罗汉）"
+  avatar           : "/images/sanzong.png"
+  name             : "Luo Xiaomao 罗晓矛"
   pronouns         : # example: she  
   bio              : "History of Chinese and Western Philosophy  Trace origins with focus on the founders of philosophical schools  Research in Natural Science    Theoretical Physics Research  Theoretical Mathematics Research  Nuclear Physicist"
   location         : "Fuzhou, Fujian, China"
