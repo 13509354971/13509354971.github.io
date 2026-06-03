@@ -23,14 +23,14 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "sanzong.png"
+  name             : "Xiao Mao Luo&罗晓矛（别名罗汉）"
+  pronouns         : # example: "she"  
+  bio              : "History of Chinese and Western Philosophy  Trace origins with focus on the founders of philosophical schools  Research in Natural Science    Theoretical Physics Research  Theoretical Mathematics Research  Nuclear Physicist"
+  location         : "Fuzhou, Fujian, China"
+  employer         : "independent researcher"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "549095596@qq.com" 
 
   # Academic websites
   academia         : # URL
